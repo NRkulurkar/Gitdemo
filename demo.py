@@ -1,3 +1,3 @@
 print("Hello Git")
-Print("It is a line no 2")
+Print("It is a second ")
 print("this is a conflict")
